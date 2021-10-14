@@ -1,2 +1,2 @@
-# CS685_Advanced_NLP
-Coursework for CS 685 - Advanced Natural Language Processing (Fall 2021), under Professor Mohit Iyyer.
+# CS 685 - Advanced Natural Language Processing
+Coursework for CS 685 - Advanced Natural Language Processing, taught by Professor Mohit Iyyer at UMass Amherst, Fall '21..
